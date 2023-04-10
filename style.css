@@ -2,87 +2,95 @@
     box-sizing: border-box;
 }
 
-body{
+body
+{
     margin: 0;
     padding: 0;
 }
 
+.navFindastore
+{
+    color: rgb(186, 39, 39); 
+    font-weight:100px;
+}
 
-.btn-outline-dark,.btn-dark{
+.btn-outline-dark,.btn-dark
+{
     
     width: 120px;
     border-radius: 29px !important;
    
 }
 
-.location{
+.location
+{
     font-size: 23px;
     color: black;
 }
-a{
+
+a
+{
     color:black !important;
    font-weight: 700;
     font-size: 14px;
 }
-li{
-    
-    margin-left: 6px;
-}
 
 
-.first-section{
+.secBelownavbar
+{
 
  
   justify-content: center;
   
-    height: 30vh;
+    height: 25vh;
 }
-.fs{
+.secBelownavbarR1
+{
     background-color:#cfded9;
     width: 100%;
-}
-.sections{
-   
-    background-color: #96b2e1;
+    height: 100%;
 }
 
 
-.sect1{
-    background-color: #96b2e1;
+.mainBoxPart1{
+    background-color: #d4e9e2;
 }
 
-.sect{
+.mainBox
+{
     height: 91vh;
     width: 100%;
   
-    /* margin-top: 7px; */
-   
+      
 }
 
-.sect2{
+.mainBoxpart2{
 
     background-color:#8b323e;
 
 }
 .sect4{
     height: 50vh;
-    /* width: 100%; */
-  
     margin-bottom: 100px;
 
 }
 
-
-.fonts{
+.textBelowheading{
     font-size: x-large;
 }
 
-.s-4fonts{
-    font-size: 22px;
-}.contnt1{
-   
-    align-items: center;
+.nitroSmooth
+{
+    margin-top: 40%;
+
 }
-.icn{
+.wrapYourday
+{
+    margin-top: 40%;
+    
+
+}
+
+.socialmedias{
     font-size: 30px;
 }
